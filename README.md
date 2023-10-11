@@ -1,2 +1,3 @@
 # knights-tour-simulation
-# Was finished but I accidentally deleted the code so I need to fix it.
+# Finished copy was deleted due to file corruption
+# This version has a few bugs in it.
